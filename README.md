@@ -7,17 +7,22 @@ Technologies Used:
 
 Backend:
 
-Java
-Spring Boot
-MySQL
+-> Java
+
+-> Spring Boot
+
+-> MySQL
 
 
 Frontend:
 
-JavaScript (React.js)
+-> JavaScript (React.js)
+
 Additional Tools:
-Maven (for Java dependency management)
-npm (for JavaScript package management)
+
+-> Maven (for Java dependency management)
+
+-> npm (for JavaScript package management)
 
 
 Features:
